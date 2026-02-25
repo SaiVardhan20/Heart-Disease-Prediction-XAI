@@ -36,15 +36,15 @@ This project investigates:
 
 # 🗂 3. Project Structure
 - Heart-Disease-Prediction-XAI/
-- │
-- ├── data/
-- │ └── heart.csv
-- │
-- ├── paper/
-- │ └── Evaluating Explanation Consistency of Explainable Machine Learning Models for Heart Disease Risk Prediction.pdf
-- │
-- ├── heart_disease_xai.ipynb
-- ├── README.md
+  │
+  ├── data/
+  │ └── heart.csv
+  │
+  ├── paper/
+  │ └── Evaluating Explanation Consistency of Explainable Machine Learning Models for Heart Disease Risk Prediction.pdf
+  │
+  ├── heart_disease_xai.ipynb
+  ├── README.md
 
 ---
 
